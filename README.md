@@ -1,6 +1,6 @@
-# TBMI26 Setup Guide
+# Setup Guide
 
-Welcome to the TBMI26 repository! Follow this guide to set up the environment and get started with the labs and projects.
+Follow this guide to set up the environment and get started with the labs and projects.
 
 ---
 
