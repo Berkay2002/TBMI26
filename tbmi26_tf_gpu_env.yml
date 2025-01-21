@@ -1,0 +1,15 @@
+name: tbmi26
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyterlab
+  - nodejs
+  - tensorflow-gpu=2
+  - cudatoolkit=10.1
+  - scikit-learn
+  - graphviz
+  - pydot
